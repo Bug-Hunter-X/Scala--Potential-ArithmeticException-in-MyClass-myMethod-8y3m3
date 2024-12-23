@@ -1,0 +1,1 @@
+This repository demonstrates a common Scala programming error: an `ArithmeticException` caused by division by zero. The `MyClass.myMethod` function can throw this exception if the input `y` equals the class member `x`. The solution includes improved error handling and checks for this condition to prevent exceptions.
